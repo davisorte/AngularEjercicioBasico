@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ejercicio-Basico"
+    }
+  },
+  "defaultProject": "Ejercicio-Basico",
+  "cli": {
+    "analytics": "a29579d5-3179-4df5-8701-9f34c7900d4a"
+  }
 }

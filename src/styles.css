@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+footer{
+    color:white ;
+    position: fixed;/*Un elemento posicionado absolutamente es un elemento cuyo valor computado de  position es absolute o fixed. Las propiedades top, right, bottom, y  left especifican el desplazamiento desde los bordes del bloque contenedor del elemento. (El bloque contenedor es el ancestro más cercano posicionado). Si el elemento tiene márgenes, se agregarán al desplazamiento.*/
+    bottom: 0px;/*para que este pegado al fondo*/
+    width: 100%;/*Que tenga un ancho del 100%*/
+}

@@ -5,3 +5,6 @@ footer{
     bottom: 0px;/*para que este pegado al fondo*/
     width: 100%;/*Que tenga un ancho del 100%*/
 }
+body{
+    background-color: azure;
+}
